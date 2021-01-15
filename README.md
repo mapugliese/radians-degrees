@@ -1,5 +1,5 @@
-# radians-to-degrees
-Converts a given value in radians to the equivalent value in degrees
+# radians-degrees
+Converts a given value in radians to the equivalent value in degrees and vice versa
 
 from https://edabit.com/challenge/2X2uZysLJ3CpsxLDD:
 
